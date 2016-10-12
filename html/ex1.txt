@@ -1,6 +1,3 @@
 Example 1
 
-rdfjuh
-fghjui
-gfhhkkj
-dgfhgjj
+This is the solution!
